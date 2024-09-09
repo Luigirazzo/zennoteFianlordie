@@ -1,0 +1,14 @@
+.header_editor{
+    display: flex;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    height: 5.5vw;
+    max-height: .5vw;
+    color: black;
+    justify-content: space-between;
+  }
+  .header_editor_logo{
+  
+    max-width: 1vw;
+    max-height:1vw;
+  
+  }
