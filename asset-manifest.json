@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Zennote-Fianal-or-i-die/static/css/main.d3caf024.css",
+    "main.js": "/Zennote-Fianal-or-i-die/static/js/main.742275eb.js",
+    "static/js/952.1adb49f4.chunk.js": "/Zennote-Fianal-or-i-die/static/js/952.1adb49f4.chunk.js",
+    "static/media/image37-3.webp": "/Zennote-Fianal-or-i-die/static/media/image37-3.e2fad675e0535268ca0f.webp",
+    "static/media/chilled2_.webp": "/Zennote-Fianal-or-i-die/static/media/chilled2_.77ac8e0e7779cfd8e462.webp",
+    "index.html": "/Zennote-Fianal-or-i-die/index.html",
+    "main.d3caf024.css.map": "/Zennote-Fianal-or-i-die/static/css/main.d3caf024.css.map",
+    "main.742275eb.js.map": "/Zennote-Fianal-or-i-die/static/js/main.742275eb.js.map",
+    "952.1adb49f4.chunk.js.map": "/Zennote-Fianal-or-i-die/static/js/952.1adb49f4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d3caf024.css",
+    "static/js/main.742275eb.js"
+  ]
+}
