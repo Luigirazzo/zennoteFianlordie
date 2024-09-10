@@ -96,9 +96,7 @@ return(
 }
 function main(){
 root.render(
-<HashRouter basename='process.env.PUBLIC_URL'>
-            <App /> 
-</HashRouter>
+  <Landingpage/>
 )
 }
 
