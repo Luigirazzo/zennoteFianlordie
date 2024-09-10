@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/zennoteFianlordie/static/css/main.2f4e4c02.css",
-    "main.js": "/zennoteFianlordie/static/js/main.a0d323d7.js",
+    "main.js": "/zennoteFianlordie/static/js/main.21beac01.js",
     "static/js/952.1adb49f4.chunk.js": "/zennoteFianlordie/static/js/952.1adb49f4.chunk.js",
     "static/media/image37-3.webp": "/zennoteFianlordie/static/media/image37-3.e2fad675e0535268ca0f.webp",
     "static/media/chilled2_.webp": "/zennoteFianlordie/static/media/chilled2_.77ac8e0e7779cfd8e462.webp",
     "index.html": "/zennoteFianlordie/index.html",
     "main.2f4e4c02.css.map": "/zennoteFianlordie/static/css/main.2f4e4c02.css.map",
-    "main.a0d323d7.js.map": "/zennoteFianlordie/static/js/main.a0d323d7.js.map",
+    "main.21beac01.js.map": "/zennoteFianlordie/static/js/main.21beac01.js.map",
     "952.1adb49f4.chunk.js.map": "/zennoteFianlordie/static/js/952.1adb49f4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2f4e4c02.css",
-    "static/js/main.a0d323d7.js"
+    "static/js/main.21beac01.js"
   ]
 }
