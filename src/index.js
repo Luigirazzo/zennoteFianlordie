@@ -96,7 +96,7 @@ return(
 }
 function main(){
 root.render(
-  <HashRouter>
+  <HashRouter basename='/zennoteFianlordie'>
   <nav>
                 <ul>
                     <li>
