@@ -97,21 +97,7 @@ return(
 function main(){
 root.render(
   <HashRouter basename='/zennoteFianlordie'>
-  <nav>
-                <ul>
-                    <li>
-                        <Link to="/dashboard">Home</Link>
-                    </li>
-                    <li>
-                        <Link to="/edit">About</Link>
-                    </li>
-                </ul>
-            </nav>
-            <Routes>
-            <Route exact path='/' element={<Load_landingpage />}></Route>
-                <Route path="/dashboard" element={<Dashboard />} />
-                <Route path="/edit" element={<Edit/>} />
-            </Routes>
+            <App /> 
 </HashRouter>
 )
 }
