@@ -96,7 +96,7 @@ return(
 }
 function main(){
 root.render(
-<HashRouter basename='https://luigirazzo.github.io/zennoteFianlordie'>
+<HashRouter basename='process.env.PUBLIC_URL'>
             <App /> 
 </HashRouter>
 )

@@ -2,7 +2,7 @@
 
   "name": "zennote",
   "version": "0.1.0",
-  "homepage": "https://Luigirazzo.github.io/zennoteFianlordie",
+  "homepage": "https://luigirazzo.github.io/zennoteFianlordie",
   "private": false,
   "dependencies": {
     "@supabase/supabase-js": "^2.44.2",
