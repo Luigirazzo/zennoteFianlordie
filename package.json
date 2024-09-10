@@ -2,8 +2,8 @@
 
   "name": "zennote",
   "version": "0.1.0",
-  "homepage": "https://Luigirazzo.github.io/Zennote-Fianal-or-i-die",
-  "private": false,
+  "homepage": "https://Luigirazzo.github.io/zennoteFianlordie",
+  "private": true,
   "dependencies": {
     "@supabase/supabase-js": "^2.44.2",
     "@testing-library/jest-dom": "^5.17.0",
