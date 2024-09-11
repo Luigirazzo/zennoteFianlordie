@@ -2,8 +2,6 @@ import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
 import { createClient } from "@supabase/supabase-js";
-import { BrowserRouter, HashRouter } from 'react-router-dom';
-import App from './app.js'
 import {  Route, Routes, Link } from 'react-router-dom';
 import Dashboard from './dashboard.js';
 import Edit from './edit.js';
@@ -12,7 +10,7 @@ const supabase = createClient("https://pufkuamgpnhopcwqpbsw.supabase.co", "eyJhb
 });
 const root = ReactDOM.createRoot(document.getElementById('root'));
 
-export default function Load_landingpage(){
+function Load_landingpage(){
 
   function Header(){
     return(
@@ -96,7 +94,7 @@ return(
 }
 function main(){
 root.render(
-  <Landingpage/>
+  <Load_landingpage/>
 )
 }
 
